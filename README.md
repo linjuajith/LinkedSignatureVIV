@@ -1,4 +1,4 @@
-# linked_signature_VIV
+
 
 # Video Integrity Verification using Elliptic Curve Digital Signature Algorithm on blockchian framework.
 If you find the source code useful for academic research, you are highly encouraged to cite the following paper:
