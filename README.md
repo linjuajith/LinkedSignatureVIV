@@ -21,9 +21,10 @@ Dr. Shreelekshmi R., mail Id: shreelekshmi@cet.ac.in
 Our code is organized as
 -SigLVIV.c
 -videos folder
+-Results.txt
 
 SigLVIV.c performs the key generation, signature generation, blockchain storage and verification of the signatures for the test videos. Copy videos
-from the videos folder to the folder containing SigLVIV.c.
+from the videos folder to the folder containing SigLVIV.c. Results.txt contains sample output.
 
 ## Prerequisites
 
