@@ -1,0 +1,77 @@
+## Compile by
+$ gcc SigLVIV.c -o siglviv -lssl -lcrypto
+
+## Run by
+./siglviv
+
+## Sample results for five blocks (five video segments)
+
+enter the number 1)add blocks 2)veriy block
+1
+add block
+Please Enter the video name: 
+videos.mp4
+Encoding time in 0.0080 seconds
+
+enter the number 1)add blocks 2)veriy block
+1
+add block
+Please Enter the video name: 
+nat1.mkv
+Encoding time in 0.0119 seconds
+
+enter the number 1)add blocks 2)veriy block
+1
+add block
+Please Enter the video name: 
+nat2.webm
+Encoding time in 0.0567 seconds
+
+enter the number 1)add blocks 2)veriy block
+1
+add block
+Please Enter the video name: 
+foot.webm
+Encoding time in 0.1100 seconds
+
+enter the number 1)add blocks 2)veriy block
+1
+add block
+Please Enter the video name: 
+flower.mkv
+Encoding time in 0.0270 seconds
+
+enter the number 1)add blocks 2)veriy block
+2
+verify which block 0
+Block verified
+Verification time: 0.0077 seconds
+
+enter the number 1)add blocks 2)veriy block
+2
+verify which block 1
+Block verified
+Verification time: 0.0117 seconds
+
+enter the number 1)add blocks 2)veriy block
+2
+verify which block 2
+Block verified
+Verification time: 0.0565 seconds
+
+enter the number 1)add blocks 2)veriy block
+2
+verify which block 3
+Block verified
+Verification time: 0.1090 seconds
+
+enter the number 1)add blocks 2)veriy block
+2
+verify which block 4
+Block verified
+Verification time: 0.0269 seconds
+
+enter the number 1)add blocks 2)veriy block
+3
+wrong choice 
+
