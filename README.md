@@ -28,7 +28,7 @@ from the videos folder to the folder containing SigLVIV.c. Results.txt contains 
 
 ## Prerequisites
 
-The SigLVIV is developed in C language and uses gcc compiler. OpenSSL cryptographic library must be installed. The program is compiled by,
+The SigLVIV is developed in C language and uses gcc compiler. OpenSSL cryptographic library and libssl-dev package must be installed. The program is compiled by,
 $ gcc SigLVIV.c -o siglviv -lssl -lcrypto
 and run by
 ./siglviv
