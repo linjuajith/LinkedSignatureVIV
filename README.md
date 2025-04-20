@@ -1,6 +1,6 @@
 
 
-# Video Integrity Verification using Elliptic Curve Digital Signature Algorithm on blockchian framework.
+# Video Integrity Verification using Elliptic Curve Digital Signature Algorithm on blockchain framework.
 If you find the source code useful for academic research, you are highly encouraged to cite the following paper:
 
 L. Lawrence, R. Shreelekshmi, Chained digital signature for the improved video integrity verification, in:
